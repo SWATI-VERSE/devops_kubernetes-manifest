@@ -14,7 +14,7 @@ spec:
         app: "frontend"
     spec:
       containers:
-      - image: 530310462938.dkr.ecr.ap-south-1.amazonaws.com/swati-cicd:3
+      - image: 530310462938.dkr.ecr.ap-south-1.amazonaws.com/swati-cicd:4
         imagePullPolicy: Always
         name: "frontend"
         ports:
